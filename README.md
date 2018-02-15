@@ -1,4 +1,7 @@
-# EthDapp-Boilerplate
+# weShare
+
+![Concept](concetp.jpg)
+
 A minimal, frontend-only decentralized application (Dapp) running on the Ethereum blockchain
 
 ### dev workflow
