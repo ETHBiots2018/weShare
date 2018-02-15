@@ -1,6 +1,6 @@
 # weShare
 
-![Concept](concetp.jpg)
+![Concept](concept.jpg)
 
 A minimal, frontend-only decentralized application (Dapp) running on the Ethereum blockchain
 
